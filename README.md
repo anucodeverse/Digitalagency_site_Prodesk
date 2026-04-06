@@ -17,14 +17,36 @@ This is a responsive digital agency website built as part of Week 1 internship t
 - CSS (Flexbox & Media Queries)
 - JavaScript
 
-## Screenshot
- Website Screenshot(screenshot1.png)(screenshot2.png)(screenshot3.png)
+## Project Screenshots
 
-## Project Structure
+### Desktop View
+Home Section
+![Homepage](images/Screenshot1.png)
+
+About Section
+![Hero Section](images/Screenshot2.png)
+
+Service Section
+![Mobile View](images/Screenshot3.png)
+
+### Mobile View
+Home Section
+![Homepage](images/mobileview1.png)
+
+About Section
+![About Section](images/mobileview2.png)
+
+Service Section
+![Servicde Section](images/mobileview3.png)
+
+footer Section
+![Footer Section](images/mobileview4.png)
+
+ Project Structure
 - index.html → Main file
 - images/ → All images used
 - README.md → Project documentation
 - Prompts.md → AI prompts used
 
-##  Note
+ Note
 This project was built using raw CSS without any frameworks like Bootstrap or Tailwind.
